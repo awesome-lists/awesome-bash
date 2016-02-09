@@ -4,6 +4,8 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
+In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
+
 ## Books and Resources
 
 -   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again SHell manual
@@ -33,7 +35,6 @@
 -   [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting.
 -   [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system.
 -   [#bash](irc://chat.freenode.net/%23bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there.
-
 
 ## Contribute
 
