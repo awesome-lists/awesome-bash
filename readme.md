@@ -8,33 +8,112 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 ## Books and Resources
 
--   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again SHell manual
--   [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/)).
--   [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath)
--   [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them.
--   [The Bash-Hackers Wiki](http://wiki.bash-hackers.org/doku.php) - Human-readable documentation of any kind about GNU Bash.
+-   [The Bash-Hackers Wiki](http://wiki.bash-hackers.org/doku.php) - Human-readable documentation of any kind about GNU Bash
 -   [Bash beginner's mistakes](http://wiki.bash-hackers.org/scripting/newbie_traps) (by the Bash-Hackers Wiki)
 -   [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners. (by Lhunath)
--   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
+-   [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath)
+-   [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them
+-   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again SHell manual
+-   [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
+-   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
 -   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) (by Machtelt Garrels)
+-   [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 -   [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) - A crash course for some common unix and shell commands
--	[Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)  - Reasonable advice about code style.
--	[Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
+-   [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)  - Reasonable advice about code style
+-   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
+-   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
+-   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
-## Scripts
+## Command-Line Productivity
+
+*Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
+
+-   [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+-   [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+-   [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
+-   [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+-   [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+
+## Customization
+
+*Custom prompts, color themes, etc.*
+
+-   [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
+-   [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
+-   [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+-   [git-prompt](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
+-   [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
+-   [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
+-   [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
+-   [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+-   [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
+
+## For Developers
+
+*Command-line development, version control, and deployment.*
+
+-   [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+-   [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
+
+## Downloading and Serving
+
+*Self-hosted, lightweight servers and networking tools written in shell scripts.*
+
+-   [balls](https://github.com/jneen/balls) - Bash on Balls
+-   [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
+-   [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
+-   [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+
+## Applications
+
+*Command line-based applications or command line access to existing services.*
+
+-   [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
+-   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+
+## Games
+
+*All work and no play is a cruddy way to spend your day.*
+
+-   [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
+-   [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+
+## Website
 
 -   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
 
-## Helpers
+## Shell Package Management
 
--   [ShellCheck](http://www.shellcheck.net/) - Automatically detects problems with sh/bash scripts.
+*Tools for managing multiple shell configurations.*
+
+-   [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
+-   [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
+-   [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
+
+
+## Shell Script Development
+
+*Tools for writing, improving, or organizing Bash or other shell scripts*
+
+-   [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+-   [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+-   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+-   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+-   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+-   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+-   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+-   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
 ## Community
 
 -   [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
--   [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting.
--   [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system.
--   [#bash](irc://chat.freenode.net/%23bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there.
+-   [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
+-   [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
+-   [#bash](https://webchat.freenode.net/?channels=bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contribute
 
@@ -45,8 +124,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, aloisdg has waived all copyright and related or neighboring rights to this work.
-
-
-
-
-
