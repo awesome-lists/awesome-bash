@@ -23,6 +23,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
 -   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 -   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+-   [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will learn you how to use the terminal and write your the first Bash script.
 
 ## Command-Line Productivity
 
