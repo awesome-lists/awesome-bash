@@ -52,6 +52,12 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 -   [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
+## Data
+
+*Tools for working with data.*
+
+-   [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+
 ## For Developers
 
 *Command-line development, version control, and deployment.*
