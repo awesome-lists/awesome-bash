@@ -53,9 +53,10 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
 ## Data
--   [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 
 *Tools for working with data.*
+
+-   [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 
 ## For Developers
 
