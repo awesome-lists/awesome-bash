@@ -32,6 +32,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
 -   [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+-   [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 -   [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 -   [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 -   [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
