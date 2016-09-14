@@ -112,6 +112,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 -   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+-   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
