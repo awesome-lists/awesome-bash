@@ -32,7 +32,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
 -   [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
--   [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 -   [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 -   [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 -   [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
@@ -99,6 +98,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework
 -   [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
+-   [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 -   [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
 
 
