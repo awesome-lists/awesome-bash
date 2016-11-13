@@ -25,6 +25,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 -   [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 -   [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will learn you how to use the terminal and write your the first Bash script.
+- [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 
 ## Command-Line Productivity
 
