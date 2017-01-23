@@ -110,6 +110,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 -   [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+-   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
