@@ -18,7 +18,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
 -   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) (by Machtelt Garrels)
 -   [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
--   [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) - A crash course for some common unix and shell commands
 -   [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply
 -   [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)  - Reasonable advice about code style
 -   [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
