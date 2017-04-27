@@ -92,6 +92,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 ## Website
 
 -   [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
+-   [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
+
 
 ## Shell Package Management
 
