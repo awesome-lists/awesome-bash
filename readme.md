@@ -50,6 +50,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 -   [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 -   [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
+-   [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif). 
 -   [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 -   [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
@@ -73,7 +74,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [balls](https://github.com/jneen/balls) - Bash on Balls
 -   [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 -   [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
--   [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+-   [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 
 ## Applications
 
