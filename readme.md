@@ -82,6 +82,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 -   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
+-   [babun](https://github.com/babun/babun) - Babun - a Windows shell you will love!
+
 
 ## Games
 
