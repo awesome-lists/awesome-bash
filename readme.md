@@ -82,7 +82,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
 -   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
--   [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
+-   [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
+-   [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
 
 ## Games
 
