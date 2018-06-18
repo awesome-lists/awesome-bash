@@ -76,6 +76,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 -   [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 -   [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+-   [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors
 
 ## Applications
 
