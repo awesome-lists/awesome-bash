@@ -35,6 +35,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 -   [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 -   [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+-   [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 -   [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 -   [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 -   [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
