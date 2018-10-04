@@ -94,6 +94,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 -   [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+-   [SHTAP](https://notimetoplay.org/engines/shtap/) - Reusable text adventure engine for Bash 4
 
 ## Website
 
