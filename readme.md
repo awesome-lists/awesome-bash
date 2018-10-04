@@ -55,6 +55,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif). 
 -   [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 -   [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
+-   [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - Customisation for the zsh shell nice and easy.
 
 ## Data
 
