@@ -87,6 +87,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 -   [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
 -   [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
+-   [ConEmu](https://github.com/Maximus5/ConEmu) - A Windows console emulator which adds tabs and multible console support
 
 ## Games
 
