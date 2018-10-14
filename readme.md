@@ -94,6 +94,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 -   [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 -   [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
+-   [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
 
 ## Website
 
