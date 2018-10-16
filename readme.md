@@ -39,6 +39,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 -   [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 -   [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+-   [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command
 
 ## Customization
 
