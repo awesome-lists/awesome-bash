@@ -26,7 +26,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will learn you how to use the terminal and write your the first Bash script.
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
-
+- [Command Line Kung Fu](http://blog.commandlinekungfu.com/p/index-of-tips-and-tricks.html) - useful, interesting, security related, non-security related, tips, and tricks associated with the command line. 
 ## Command-Line Productivity
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
