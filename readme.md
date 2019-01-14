@@ -130,6 +130,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 -   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+-   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions )
+-   [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
 
 ## Community
 
