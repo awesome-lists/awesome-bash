@@ -52,7 +52,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 - [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
-- [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif). 
+- [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif).
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
@@ -124,7 +124,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 - [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
+- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
 - [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 - [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 - [shfmt](https://github.com/mvdan/sh) - Format bash programs
