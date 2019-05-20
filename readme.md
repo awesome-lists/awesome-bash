@@ -136,7 +136,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
 - [#bash](https://webchat.freenode.net/?channels=bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
-# Other Awesome Lists
+## Other Awesome Lists
 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
 
