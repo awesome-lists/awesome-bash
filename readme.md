@@ -101,7 +101,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
 - [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
 
-
 ## Shell Package Management
 
 *Tools for managing multiple shell configurations.*
@@ -110,7 +109,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts
 - [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash
-
 
 ## Shell Script Development
 
