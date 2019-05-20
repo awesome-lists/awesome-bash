@@ -13,7 +13,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners. (by Lhunath)
 -   [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath)
 -   [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them
--   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again SHell manual
+-   [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual
 -   [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
 -   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting
 -   [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) (by Machtelt Garrels)
