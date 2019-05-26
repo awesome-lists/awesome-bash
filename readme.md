@@ -128,6 +128,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [shfmt](https://github.com/mvdan/sh) - Format bash programs
 - [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 - [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+- [styli.sh](https://github.com/eliranmal/styli.sh) - Text formatter and renderer for the shell
+
 
 ## Community
 
