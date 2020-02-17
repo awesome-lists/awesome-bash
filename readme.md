@@ -114,21 +114,23 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
-- [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
-- [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
-- [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
-- [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
-- [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-- [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
-- [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
-- [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
-- [shfmt](https://github.com/mvdan/sh) - Format bash programs
-- [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
-- [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
-- [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
+-   [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+-   [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+-   [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+-   [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+-   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+-   [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+-   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+-   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
+-   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+-   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+-   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
+-   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
+-   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
+-   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+-   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+-   [shfmt](https://github.com/mvdan/sh) - Format bash programs
+-   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
 ## Community
 
