@@ -85,6 +85,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 *Command line-based applications or command line access to existing services.*
 
 - [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
+- [bashtop](https://github.com/aristocratos/bashtop) - A beautiful truecolor GNU/Linux resource monitor
+- [bootiso](https://github.com/jsamr/bootiso) - A Bash program to burn images on USB drives
 - [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 - [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
 - [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
