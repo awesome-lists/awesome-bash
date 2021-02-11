@@ -53,6 +53,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client
 - [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 - [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest ![progress-bar.sh in action](http://pix.toile-libre.org/upload/original/1476311497.gif).
+- [progressbar](https://github.com/pforret/progressbar) - self-learning progressbar, by estimating seconds or # lines output
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 
@@ -88,7 +89,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 - [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file
 - [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash
-
+- [splashmark](https://github.com/pforret/splashmark) - Generate (Unsplash) images with attribution (EXIF), text markup, visual filters, scale & crop to correct dimensions
+	
 ## Games
 
 *All work and no play is a cruddy way to spend your day.*
@@ -121,6 +123,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
 -   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 -   [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+-   [bashew](https://github.com/pforret/bashew) - bash script boilerplate repo with option parsing, .env support, CI/CD ...
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 -   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
 -   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
@@ -130,6 +133,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+-   [setver](https://github.com/pforret/setver) - get/set Semver versioning for bash/git tags
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
