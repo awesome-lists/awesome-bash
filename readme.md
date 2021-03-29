@@ -133,6 +133,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
+- [bash-collection](https://github.com/LamdaLamdaLamda/bash-collection) - A collection of useful bash-scripts with the intention to improve your daily workflow. 
 
 ## Community
 
