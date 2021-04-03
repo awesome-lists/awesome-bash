@@ -26,6 +26,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+- [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)
 
 ## Command-Line Productivity
 
@@ -131,6 +132,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 -   [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
+-   [shellharden](https://github.com/anordal/shellharden/)
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
