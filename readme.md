@@ -61,6 +61,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 *Tools for working with data.*
 
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+- [unibuild](https://gitlab.com/sulinos/devel/unibuild) - Open-source universal source code builder & package creator. Debian Archlinux Sulin Appimage ...
+- [unibuild](https://gitlab.com/sulinos/devel/unibuild-pkg) - Open source package manager for unibuild.
 
 ## For Developers
 
