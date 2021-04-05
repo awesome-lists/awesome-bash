@@ -61,6 +61,8 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 *Tools for working with data.*
 
 - [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
+- [unibuild](https://gitlab.com/sulinos/devel/unibuild) - Open-source universal source code builder & package creator. Debian Archlinux Sulin Appimage ...
+- [unibuild-pkg](https://gitlab.com/sulinos/devel/unibuild-pkg) - Open source package manager for unibuild.
 
 ## For Developers
 
@@ -69,6 +71,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+- [initrd](https://gitlab.com/sulinos/devel/initrd) - Initial ramdisk manager for SulinOS
 
 ## Downloading and Serving
 
