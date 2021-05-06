@@ -77,6 +77,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [balls](https://github.com/jneen/balls) - Bash on Balls
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash
 - [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
+- [gitbitlabhub](https://github.com/karser/gitbitlabhub) - A netcat based tool for mirroring Bitbucket / Gitlab / Github repositories using simple webhooks
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors
 
