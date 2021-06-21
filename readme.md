@@ -32,9 +32,12 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
+- [autoenv](https://github.com/kennethreitz/autoenv) - directory based environments
+- [bash-funk](https://github.com/vegardit/bash-funk/) - supporting commands for e.g. AWS, GIT, SSH, filesystem navigation and an optional adaptive bash-prompt
 - [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
+- [direnv](https://direnv.net/) - an environment switcher for the shell.
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
@@ -69,6 +72,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
+- [test-ssl.sh](https://testssl.sh/) - checks servers for the support of TLS/SSL ciphers, protocols as well as recent cryptographic flaws
 
 ## Downloading and Serving
 
