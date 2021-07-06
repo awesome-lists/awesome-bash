@@ -127,6 +127,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 -   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
+-   [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 -   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
