@@ -67,6 +67,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 *Command-line development, version control, and deployment.*
 
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+- [dist.sh](https://github.com/javanile/dist.sh) - Source code bundler based on `.distfile`
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline
 
