@@ -124,6 +124,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 -   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
 -   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+-   [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 -   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
