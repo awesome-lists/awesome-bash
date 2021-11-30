@@ -38,7 +38,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
-- [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+- [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 
 ## Customization
 
