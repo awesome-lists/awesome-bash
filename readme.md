@@ -38,7 +38,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
-- [sshrc](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
+- [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ## Customization
@@ -125,12 +125,14 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 -   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
 -   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+-   [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 -   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
 -   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+-   [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 
