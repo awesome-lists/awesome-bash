@@ -4,15 +4,41 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-<!--
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
--->
+## App to be submitted
 
 Thank you for your suggestions!
+
+Note, however, that not everything will be considered. The aim of the list is to provide a concise set of awesome Bash scripts and resources. This means that suggestions should, where applicable:
+
+- Use or refer to Bash directly (i.e. there are more appropriate Awesome Lists tracking general CLI tools).
+- Do one thing and do it well.
+- Have a free and open source license.
+- Be easy to install.
+- Be well documented.
+- Have a decently active community and engaged ownership.
+
+## Pull Request Style
+
+#### Ground Rules
+
+- No duplicates.
+- Individual pull request for each suggestion.
+- The repository is older than 90 days (where applicable).
+- The repository has more than 10 stars (where applicable).
+
+#### Formatting & Style
+
+- The pull request shall be titled: `Add ITEM_NAME`.
+- The item is added at the bottom of the relevant category.
+- Use the following format: `[ITEM_NAME](LINK) - DESCRIPTION.`
+  - Description starts with a capital and ends with a full stop (period).
+    - Try to keep it short and concise.
+  - No trailing whitespace.
+  - Check your spelling and grammar.
+
+### Other Pull Requests
+
+Pull requests that introduce new categories or improve the readme are always welcome! In that case feel free to disregard the given structure above.
 
 ### Updating your PR
 
