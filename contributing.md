@@ -23,8 +23,11 @@ Note, however, that not everything will be considered. The aim of the list is to
 
 - No duplicates.
 - Individual pull request for each suggestion.
-- The repository is older than 90 days (where applicable).
-- The repository has more than 10 stars (where applicable).
+- For source code repositories:
+  - The repository is older than 90 days.
+  - The repository has more than 50 stars.
+- For non-source resource lins:
+  - Include links to positive discussions indicating this resource has a strong, positive community backing, e.g. a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), [Lobster](https://lobste.rs/), or similiar post.
 
 #### Formatting & Style
 
