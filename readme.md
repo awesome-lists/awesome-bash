@@ -41,7 +41,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
-
+- [bash-web-server](https://github.com/dzove855/bash-web-server) - A simple badh wrb server
 ## Customization
 
 *Custom prompts, color themes, etc.*
