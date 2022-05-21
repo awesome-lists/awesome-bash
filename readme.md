@@ -140,6 +140,10 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 -   [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
 
+## Just for fun
+
+-   [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal
+
 ## Community
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
