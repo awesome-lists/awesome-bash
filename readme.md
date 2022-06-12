@@ -26,6 +26,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+- [Learn Bash the Hard Way](https://leanpub.com/learnbashthehardway) - Learn bash using the 'Hard Way' method
 
 ## Command-Line Productivity
 
@@ -132,7 +133,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
 -   [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
--   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
+-   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
 -   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 -   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 -   [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
