@@ -19,7 +19,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) (by Machtelt Garrels)
 - [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply
-- [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)  - Reasonable advice about code style
+- [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  - Reasonable advice about code style
 - [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming
 - [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
