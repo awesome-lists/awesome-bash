@@ -129,6 +129,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
 -   [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
 -   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+-   [Bashmatic](https://github.com/kigster/bashmatic) - easy to use DSL  framework for building BASH-based tooling & installers.
 -   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
 -   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
 -   [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
