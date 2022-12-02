@@ -46,6 +46,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 *Custom prompts, color themes, etc.*
 
+- [aphrodite-terminal-theme](https://github.com/win0err/aphrodite-terminal-theme) — Minimalistic theme (prompt) for sexy terminals.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
 - [bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
 - [bashstrap](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
