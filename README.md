@@ -141,6 +141,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 -   [shfmt](https://github.com/mvdan/sh) - Format bash programs
 -   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 -   [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+-   [shpinner](https://gitlab.com/matesitox/shpinner) - A pure bash spinner library to spicy up your interactive scripts.
 
 ## Just for fun
 
