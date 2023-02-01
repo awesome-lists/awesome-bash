@@ -151,7 +151,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
 - [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
 - [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
-- [#bash](https://webchat.freenode.net/?channels=bash) - IRC channel on freenode. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+- [#bash](https://web.libera.chat/?nick=Guest?#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
 ## Other Awesome Lists
 
