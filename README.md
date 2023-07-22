@@ -35,6 +35,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+- [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box
