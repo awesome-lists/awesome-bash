@@ -4,7 +4,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
+In addition to this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Books and Resources
 
@@ -150,9 +150,9 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 ## Community
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
-- [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
-- [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
-- [#bash](https://web.libera.chat/?nick=Guest?#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+- [/r/bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
+- [/r/commandline](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
+- [#bash](https://web.libera.chat/?nick=Guest&#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
 ## Other Awesome Lists
 
