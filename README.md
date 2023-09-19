@@ -106,6 +106,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik))
 - [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands
+- [Bash Command Formatter](https://ray.run/tools/bash-command-formatter) – A Bash command formatter tool takes in a Bash command and formats it, applying proper indentation, line breaks, and formatting to make it more readable and structured.
 
 ## Shell Package Management
 
