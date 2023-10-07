@@ -99,7 +99,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 - [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
-- [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
 - [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
 
 ## Website
