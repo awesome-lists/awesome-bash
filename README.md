@@ -121,6 +121,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 -   [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
 -   [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 -   [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+-   [bashunit](https://github.com/TypedDevs/bashunit) - A simple but powerful testing library for bash scripts
 -   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 -   [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 -   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
