@@ -1,10 +1,8 @@
-# Awesome Bash [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Bash [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of delightful Bash scripts and resources.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
-In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
+In addition to this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 ## Books and Resources
 
@@ -99,7 +97,6 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 
 - [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 - [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
-- [solitaire](https://opensource-usability.blogspot.com/2016/10/solitaire-in-bash-script.html) - Bash implementation of solitaire
 - [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash
 
 ## Website
@@ -142,6 +139,7 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 - [shfmt](https://github.com/mvdan/sh) - Format bash programs
 - [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
 - [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+- [modernish](https://github.com/modernish/modernish) - library with various features for shell scripting
 
 ## Just for fun
 
@@ -150,9 +148,9 @@ In addition of this list, you should read the list [awesome-shell](https://githu
 ## Community
 
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow
-- [/r/Bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
-- [/r/CommandLine](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
-- [#bash](https://web.libera.chat/?nick=Guest?#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
+- [/r/bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting
+- [/r/commandline](https://www.reddit.com/r/commandline) - for anything regarding the command line, in any operating system
+- [#bash](https://web.libera.chat/?nick=Guest&#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there
 
 ## Other Awesome Lists
 
