@@ -117,34 +117,33 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
--   [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
--   [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
--   [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
--   [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
--   [bashunit](https://github.com/TypedDevs/bashunit) - A simple but powerful testing library for bash scripts
--   [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
--   [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
--   [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
--   [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
--   [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
--   [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
--   [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
--   [Bashmatic](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
--   [BashScriptTestingLibrary](https://github.com/rafritts/BashScriptTestingLibrary) - A unit testing framework for Bash scripts
--   [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
--   [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
--   [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
--   [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
--   [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
--   [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
--   [shfmt](https://github.com/mvdan/sh) - Format bash programs
--   [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
--   [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
--   [modernish](https://github.com/modernish/modernish) - library with various features for shell scripting
+- [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+- [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
+- [async-bash](https://github.com/zombieleet/async-bash) - implementation of async functions in bash
+- [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+- [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
+- [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
+- [bashify](https://github.com/zombieleet/bashify) - few helper functions in bash ( especially string manipulation functions)
+- [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools
+- [bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator
+- [bashmanager](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+- [Bashmatic](https://github.com/kigster/bashmatic) - an easy to use DSL library for building BASH-based tooling & installers (900+ functions).
+- [bunit](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts
+- [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
+- [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
+- [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
+- [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
+- [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
+- [shfmt](https://github.com/mvdan/sh) - Format bash programs
+- [shunit2](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit
+- [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment
+- [modernish](https://github.com/modernish/modernish) - library with various features for shell scripting
 
 ## Just for fun
 
--   [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal
+- [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal
 
 ## Community
 
