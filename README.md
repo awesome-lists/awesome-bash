@@ -132,7 +132,8 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bunit](https://github.com/rafritts/bunit) - A unit testing framework for Bash scripts
 - [Bash Infinity](https://github.com/niieani/bash-oo-framework) - A modern boilerplate / framework / standard library for bash
 - [bash-modules](https://github.com/vlisivka/bash-modules) - a collection of modules for [unofficial strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals 
+- [bash_unit](https://github.com/pgrange/bash_unit) -  bash unit testing enterprise edition framework for professionals
+- [bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts
 - [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 - [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 - [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts
