@@ -24,6 +24,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [learnyoubash](https://github.com/denysdovhan/learnyoubash) - An interactive workshopper which will teach you how to use the terminal and write your the first Bash script.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
+- [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
 
 ## Command-Line Productivity
 
