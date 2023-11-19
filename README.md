@@ -80,6 +80,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [balls](https://github.com/jneen/balls) - Bash on Balls.
 - [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash.
+- [sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.
