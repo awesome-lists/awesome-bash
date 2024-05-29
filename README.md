@@ -1,8 +1,27 @@
-# Awesome Bash [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Bash [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of delightful Bash scripts and resources.
 
 In addition to this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
+
+## Contents <!-- omit in toc -->
+
+- [Books and Resources](#books-and-resources)
+- [Command-Line Productivity](#command-line-productivity)
+- [Customization](#customization)
+- [Data](#data)
+- [For Developers](#for-developers)
+- [Downloading and Serving](#downloading-and-serving)
+- [Applications](#applications)
+- [Games](#games)
+- [Website](#website)
+- [Shell Package Management](#shell-package-management)
+- [Shell Script Development](#shell-script-development)
+- [Just for fun](#just-for-fun)
+- [Community](#community)
+- [Other Awesome Lists](#other-awesome-lists)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Books and Resources
 
@@ -85,7 +104,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [httpd.sh](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
 - [Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
-- [bash-stack](https://github.com/cgsdev0/bash-stack) - modern web framework in bash.
+- [bash-stack](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
 - [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.
