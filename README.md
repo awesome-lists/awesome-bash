@@ -56,6 +56,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
+- [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similiar in syntax and speed to `xargs -P` but with more features and native bash function support.
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 - [qfc](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh.
