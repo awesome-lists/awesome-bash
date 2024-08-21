@@ -63,6 +63,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
+- [devtodo](https://swapoff.org/devtodo.html) - DevTodo is a small command line application for maintaining lists of tasks. It stores tasks hierarchically, with each task given one of five priority levels. Data is stored as JSON.
 
 ## Customization
 
