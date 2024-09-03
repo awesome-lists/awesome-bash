@@ -78,6 +78,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions.
 - [mysql-colorize](https://github.com/horosgrisa/mysql-colorize.bash) -  Colorization for mysql comand-line client.
 - [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 - [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 - [bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults.
