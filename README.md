@@ -163,6 +163,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bash-modules](https://github.com/vlisivka/bash-modules) - A collection of modules for unofficial strict mode.
 - [bash_unit](https://github.com/pgrange/bash_unit) -  Bash unit testing enterprise edition framework for professionals.
 - [bashunit](https://github.com/TypedDevs/bashunit) - A simple testing library for bash scripts.
+- [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 - [mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash.
 - [semver_bash](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash.
 - [shellcheck](https://github.com/koalaman/shellcheck) - A static analysis tool for shell scripts.
