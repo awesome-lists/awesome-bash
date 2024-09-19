@@ -141,6 +141,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [bpkg](https://github.com/bpkg/bpkg) - A lightweight bash package manager.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
+- [one.bash](https://github.com/one-bash/one.bash) - An elegant framework to manage commands, completions, dotfiles for bash users.
 
 ## Shell Script Development
 
