@@ -1,47 +1,51 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Contributions are welcome! Note that this project has a [Contributor Code of Conduct](./code-of-conduct.md); by participating in this project, you agree to abide by its terms.
 
 ---
 
-## App to be submitted
+## New Links
 
-Thank you for your suggestions!
+Any and all suggestions are appreciated! Please note that suggestions are _not guaranteed to be added_. Not everything will be considered for inclusion. It is recommended to conform to the recommendations as laid out below.
 
-Note, however, that not everything will be considered. The aim of the list is to provide a concise set of awesome Bash scripts and resources. This means that suggestions should, where applicable:
+It is highly recommended to meet the following requirements.
 
-- Use or refer to Bash directly (i.e. there are more appropriate Awesome Lists tracking general CLI tools).
-- Do one thing and do it well.
-- Have a free and open source license.
-- Be easy to install.
-- Be well documented.
-- Have a decently active community and engaged ownership.
+- Source code resources must:
+  - Be older than 90 days
+  - Have more than 50 stars
+- Non-source code resources must:
+  - Include at least 1 link (in the PR) to positive discussions that indicates the resource has a strong, positive community backing. For example, a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), or [Lobster](https://lobste.rs/) post
 
-## Pull Request Style
+If the resource links to source code, it is recommended for it to:
+
+- Do one thing and do it well
+- Have a free and open source software license
+- Be easy to install
+- Be well documented
+- Have a decently active community and engaged ownership
+- Use Bash directly (general CLI tools should go in a different Awesome List)
+
+## Pull Requests
 
 #### Ground Rules
 
-- No duplicates.
-- Individual pull request for each suggestion.
-- For source code repositories:
-  - The repository is older than 90 days.
-  - The repository has more than 50 stars.
-- For non-source resource lins:
-  - Include links to positive discussions indicating this resource has a strong, positive community backing, e.g. a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), [Lobster](https://lobste.rs/), or similiar post.
+- No duplicate links
+- _Create a pull request for each individual suggestion_
 
 #### Formatting & Style
 
-- The pull request shall be titled: `Add ITEM_NAME`.
-- The item is added at the bottom of the relevant category.
+- The pull request must be titled: `Add ITEM_NAME`
 - Use the following format: `[ITEM_NAME](LINK) - DESCRIPTION.`
-  - Description starts with a capital and ends with a full stop (period).
-    - Try to keep it short and concise.
-  - No trailing whitespace.
-  - Check your spelling and grammar.
+  - Description starts with a capital and ends with a full stop (period)
+    - Try to keep it short and concise
+  - No trailing whitespace
+  - Check your spelling and grammar
+- The item is added at the bottom (or alphabetical) of the relevant category
+
 
 ### Other Pull Requests
 
-Pull requests that introduce new categories or improve the readme are always welcome! In that case feel free to disregard the given structure above.
+Pull requests that introduce new categories or improve the README are always welcome! In that case, feel free to disregard the given structure above.
 
 ### Updating your PR
 
