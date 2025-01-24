@@ -115,6 +115,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Command line-based applications or command line access to existing services.*
 
+- [argrelay](https://github.com/argrelay/argrelay) - A stand-by server integrated with Bash Tab-completion to provide CLI framework with structured data search directly via command line arguments for custom tools: [argrelay.org](https://argrelay.org/).
 - [bashblog](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting.
 - [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
 - [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
