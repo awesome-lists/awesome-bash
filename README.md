@@ -173,6 +173,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 750+ DevOps Shell Scripts and Advanced Bash environment.
 - [modernish](https://github.com/modernish/modernish) - Library with various features for shell scripting.
 - [json.bash](https://github.com/h4l/json.bash) - Bash library and command-line tool that creates JSON.
+- [timep](https://github.com/jkool702/timep) - A next-gen profiler and FlameGraph generator for bash code.
 
 ## Just for fun
 
