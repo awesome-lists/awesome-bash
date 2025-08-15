@@ -51,9 +51,10 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
-- [bashhub](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 - [bashhub-server](https://github.com/nicksherron/bashhub-server) - Privately hosted open source bashhub server.
+- [bashhub](https://github.com/rcaloras/bashhub-client) - Bash history in the cloud. Indexed and searchable :cloud:.
 - [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell.
+- [bashmount](https://github.com/jamielinux/bashmount) - Easily manage removable media.
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
