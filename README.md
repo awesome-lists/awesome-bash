@@ -97,6 +97,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+- [nullsec-scripts](https://github.com/bad-antics/nullsec-scripts) - Security-focused Bash scripts for penetration testing, network analysis, and system hardening.
 
 ## Downloading and Serving
 
