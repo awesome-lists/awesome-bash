@@ -88,6 +88,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+- [oosh](https://github.com/bruno-de-queiroz/oosh) - Zero-dependency bash framework that turns annotated shell functions into full CLI tools with auto-generated help, flag parsing, and tab completion.
 
 ## Downloading and Serving
 
