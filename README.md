@@ -170,6 +170,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Just for fun
 
+- [Bash Screensavers](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
 - [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal.
 
 ## Community
