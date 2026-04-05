@@ -9,7 +9,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Books and Resources](#books-and-resources)
 - [Command-Line Productivity](#command-line-productivity)
 - [Customization](#customization)
-- [Data](#data)
 - [For Developers](#for-developers)
 - [Downloading and Serving](#downloading-and-serving)
 - [Applications](#applications)
