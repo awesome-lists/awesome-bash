@@ -87,6 +87,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
+- [gitty](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI: `gitty up` replaces add→commit→push in one command; no dependencies.
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
 
 ## Downloading and Serving
