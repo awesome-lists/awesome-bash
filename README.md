@@ -62,6 +62,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=awesome-lists_awesome-bash) - Follow developers on GitHub and get a feed of what they star and build.
 ## Customization
 
 *Custom prompts, color themes, etc.*
