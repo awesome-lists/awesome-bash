@@ -42,6 +42,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
+- [BashExplain](https://genesisaiservices.github.io/bashexplain/) - Paste any bash command or pipeline and get a plain-English explanation of each part. Free, client-side, no signup.
 - [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
 
 ## Command-Line Productivity
