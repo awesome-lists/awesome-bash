@@ -111,6 +111,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [pushbullet-bash](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API.
 - [todo.sh](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 - [cheapci](https://github.com/ianmiell/cheapci) - A continuous integration framework implemented in bash.
+- [RAMUP](https://github.com/Atum246/ramup) - Advanced VPS memory extension engine. Extends RAM for free using ZRAM, smart swap, and kernel tuning.
 
 ## Games
 
