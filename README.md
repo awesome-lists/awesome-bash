@@ -26,20 +26,20 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [The Bash-Hackers Wiki](https://web.archive.org/web/20230406205817/https://wiki.bash-hackers.org/) - Human-readable documentation of any kind about GNU Bash.
 - [Bash beginner's mistakes](https://web.archive.org/web/20230330234404/https://wiki.bash-hackers.org/scripting/newbie_traps) - List of Bash beginner mistakes (by the Bash-Hackers Wiki).
-- [Bash Guide](http://mywiki.wooledge.org/BashGuide) - A bash guide for beginners (by Lhunath).
-- [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath).
-- [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them.
-- [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual.
-- [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
-- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
-- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Bash guide for beginners (by Machtelt Garrels).
-- [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide) - A bash guide for beginners (by Lhunath).
+- [Bash FAQ](https://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath).
+- [Bash Pitfalls](https://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them.
+- [Bash manual](https://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual.
+- [Bash FAQ](https://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](https://tiswww.case.edu/php/chet/))
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
+- [Bash Guide for Beginners](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Bash guide for beginners (by Machtelt Garrels).
+- [Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Reasonable advice about code style.
-- [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
+- [Sobell's Book](https://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 - [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
-- [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](https://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- [Defensive BASH Programming](https://web.archive.org/web/20180917174959/https://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
 - [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
@@ -122,8 +122,8 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Website
 
-- [Bash One-Liners](http://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
-- [commandlinefu](http://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
+- [Bash One-Liners](https://www.bashoneliners.com/) -  A collection of practical or just pure awesome bash one-liners ([repos](https://github.com/janosgyerik/bashoneliners) by @[janosgyerik](https://github.com/janosgyerik)).
+- [commandlinefu](https://www.commandlinefu.com/) -  A repository for the most elegant and useful UNIX commands.
 
 ## Shell Package Management
 
@@ -175,7 +175,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Community
 
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/bash) - Bash tag on Stack Overflow.
 - [/r/bash](https://www.reddit.com/r/bash) - A subreddit dedicated to bash scripting.
 - [/r/commandline](https://www.reddit.com/r/commandline) - For anything regarding the command line, in any operating system.
 - [#bash](https://web.libera.chat/?nick=Guest&#bash) - IRC channel on Libera.​Chat. The main contributors of the BashGuide, BashFAQ, BashPitfalls and ShellCheck hang around there.
@@ -190,6 +190,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, aloisdg has waived all copyright and related or neighboring rights to this work.
