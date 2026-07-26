@@ -55,7 +55,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bashmount](https://github.com/jamielinux/bashmount) - Easily manage removable media.
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
-- [flyline](https://github.com/HalFrgrd/flyline) - A Rust plugin for modern line editing, featuring Intellisense style autocompletions, mouse support, prompt customization, and more.
+- [flyline](https://github.com/HalFrgrd/flyline) - A readline replacement for a modern line editing experience.
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
 - [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
