@@ -60,6 +60,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
+- [xcol](https://github.com/mimmocrazy/xcol) - Fast column extraction & action runner for terminal pipelines.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A better way to navigate your filesystem. Written in Rust, cross-shell, and much faster than other autojumpers.
 
 ## Customization
