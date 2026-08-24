@@ -36,6 +36,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Reasonable advice about code style.
+- [ShellCraft Cheatsheets](https://ghassan-gaidi.github.io/shellcraft-cheatsheets/?ref=specD2) - One-page printable cheatsheets for bash, find/sed/awk and everyday shell work.
 - [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
 - [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
 - [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
