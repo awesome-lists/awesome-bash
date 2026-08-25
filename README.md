@@ -145,6 +145,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [async-bash](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
 - [bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts.
+- [bashcov](https://github.com/infertux/bashcov) - Code coverage tool for Bash.
 - [bashful](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts.
 - [bashify](https://github.com/zombieleet/bashify) - Few helper functions in bash (especially string manipulation functions).
 - [bashing](https://github.com/xsc/bashing) - Smashing Bash into Pieces - Bash framework for creating command line tools.
