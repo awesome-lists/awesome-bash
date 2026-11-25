@@ -87,6 +87,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash.
 - [git-sh](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work.
 - [mkdkr](https://github.com/rosineygp/mkdkr) - Make + Docker + Shell = CI Pipeline.
+- [say-it](https://github.com/anzy-renlab-ai/pronounce) - Pronounces developer jargon out loud from a 1,984-entry community dictionary.
 
 ## Downloading and Serving
 
