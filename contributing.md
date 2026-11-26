@@ -6,24 +6,19 @@ Contributions are welcome! Note that this project has a [Contributor Code of Con
 
 ## New Links
 
-Any and all suggestions are appreciated! Please note that suggestions are _not guaranteed to be added_. Not everything will be considered for inclusion. It is recommended to conform to the recommendations as laid out below.
+New suggestions and links are always appreciated! Please note that contributions are _not guaranteed to be added_. It is highly recommended to conform to the recommendation as laid out below. The project:
 
-It is highly recommended to meet the following requirements.
+- Should be older than 3 months
+- Should have more than 250 stars
+- Has a decently active community and engaged ownership
+- Does one thing and do it well
+- Has a free and open source software license
+- Is easy to install and well-documented
+- Uses Bash directly (general CLI tools should go in a different Awesome List)
 
-- Source code resources must:
-  - Be older than 90 days
-  - Have more than 50 stars
-- Non-source code resources must:
-  - Include at least 1 link (in the PR) to positive discussions that indicates the resource has a strong, positive community backing. For example, a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), or [Lobster](https://lobste.rs/) post
+If the link is not source code (like a blog) the PR must include at least 1 link to positive discussions that indicates the resource has a strong, positive community backing. For example, a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), or [Lobster](https://lobste.rs/) post.
 
-If the resource links to source code, it is recommended for it to:
-
-- Do one thing and do it well
-- Have a free and open source software license
-- Be easy to install
-- Be well documented
-- Have a decently active community and engaged ownership
-- Use Bash directly (general CLI tools should go in a different Awesome List)
+Exception are granted on a case-by-cases basis, especially for projects that are old (5+ years) or weren't one-shotted by AI.
 
 ## Pull Requests
 
@@ -41,7 +36,6 @@ If the resource links to source code, it is recommended for it to:
   - No trailing whitespace
   - Check your spelling and grammar
 - The item is added at the bottom (or alphabetical) of the relevant category
-
 
 ### Other Pull Requests
 
