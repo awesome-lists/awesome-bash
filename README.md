@@ -30,15 +30,14 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath).
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them.
 - [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual.
-- [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
 - [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Bash guide for beginners (by Machtelt Garrels).
-- [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
+- [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc) - An introductory guide to Bash scripting.
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Reasonable advice about code style.
 - [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
-- [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting) - A community-written guide to Bash shell scripting.
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - A guide to Bash options for stricter error handling.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
@@ -127,7 +126,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Shell Package Management
 
-*Tools for managing multiple shell configurations.*
+*Tools for managing shell packages, frameworks, and dotfiles.*
 
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
@@ -171,7 +170,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 ## Just for fun
 
 - [Bash Screensavers](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
-- [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal.
 
 ## Community
 
