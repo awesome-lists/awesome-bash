@@ -43,6 +43,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
 - [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) - How to do things safely in Bash.
+- [COLODEBUG](https://johannes.truschnigg.info/writing/2021-12_colodebug/) - A guide for using "colon comments" for clearer Bash execution traces and debug output.
 
 ## Command-Line Productivity
 
