@@ -20,7 +20,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Community](#community)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contribute](#contribute)
-- [License](#license)
 
 ## Books and Resources
 
@@ -30,15 +29,14 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [Bash FAQ](http://mywiki.wooledge.org/BashFAQ) - Answers most of your questions (by Lhunath).
 - [Bash Pitfalls](http://mywiki.wooledge.org/BashPitfalls) - Lists the common pitfalls beginners fall into, and how to avoid them.
 - [Bash manual](http://www.gnu.org/software/bash/manual/) - Bourne-Again Shell manual.
-- [Bash FAQ](http://tiswww.case.edu/php/chet/bash/FAQ) (by [Chet Ramey](http://tiswww.case.edu/php/chet/))
 - [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - An in-depth exploration of the art of shell scripting.
-- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - Bash guide for beginners (by Machtelt Garrels).
-- [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc)
+- [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - A bash guide for beginners (by Machtelt Garrels).
+- [Bash Programming - Intro/How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc) - An introductory guide to Bash scripting.
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) - A handbook for those who want to learn Bash without diving in too deeply.
 - [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Reasonable advice about code style.
 - [Sobell's Book](http://www.sobell.com/CR3/index.html) - A practical guide to commands, editors, and shell programming.
-- [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)
-- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+- [WikiBooks: Bash Shell Scripting](https://en.wikibooks.org/wiki/Bash_Shell_Scripting) - A community-written guide to Bash shell scripting.
+- [Use the Unofficial Bash Strict Mode (Unless You Looove Debugging)](http://redsymbol.net/articles/unofficial-bash-strict-mode/) - A guide to Bash options for stricter error handling.
 - [Defensive BASH Programming](https://web.archive.org/web/20180917174959/http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming) - Methods to defend your programs from breaking as well as keeping the code tidy and clean.
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - A collection of pure bash alternatives to external processes.
 - [explainshell](https://explainshell.com) - A website that breaks down and explains shell (Bash) commands (including their flags and options).
@@ -56,7 +54,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [ble.sh](https://github.com/akinomyoga/ble.sh) - User-friendly and feature rich readline replacement, with syntax highlighting, better command completion, and improved multi-line editing.
 - [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash.
 - [forkrun](https://github.com/jkool702/forkrun) - A pure-bash tool for running code in parallel. Similar in syntax and speed to `xargs -P`, but with more features and native Bash function support.
-- [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path.
+- [has](https://github.com/kdabir/has) - Helps check the presence of various command line tools and their versions on path.
 - [hstr](https://github.com/dvorka/hstr) - Bash History Suggest Box.
 - [sshrc](https://github.com/cdown/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH.
 - [utility-bash-scripts](https://github.com/aviaryan/utility-bash-scripts) - Useful bash scripts to do automatable tasks with a single command.
@@ -74,7 +72,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 - [gittify](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions.
-- [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh.
+- [oh-my-git](https://github.com/arialdomartini/oh-my-git) - An opinionated Git prompt for bash and zsh.
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration.
 - [progress-bar.sh](https://github.com/edouard-lopez/progress-bar.sh) - Simple & sexy progressbar for `bash`, give it a duration and it will do the rest.
 - [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
@@ -118,7 +116,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 - [bash2048](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game.
 - [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper.
-- [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Wordle in less than 50 lines of Bash.
+- [wordle](https://gist.github.com/huytd/6a1a6a7b34a0d0abcac00b47e3d01513) - Implementation of wordle in less than 50 lines of Bash.
 
 ## Website
 
@@ -127,7 +125,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 ## Shell Package Management
 
-*Tools for managing multiple shell configurations.*
+*Tools for managing shell packages, frameworks, and dotfiles.*
 
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
@@ -139,7 +137,7 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 *Tools for writing, improving, or organizing Bash or other shell scripts*
 
 - [alinex bashlib](https://gitlab.com/alinex/bash-lib) - Modular bash library for server administration, data processing, and remote scripting.
-- [ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more.
+- [ansi](https://github.com/fidian/ansi) - Print ANSI escape codes in pure bash - change text color, position the cursor, much more.
 - [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator.
 - [assert.sh](https://github.com/lehmannro/assert.sh) - Bash unit testing framework.
 - [async-bash](https://github.com/zombieleet/async-bash) - Implementation of async functions in bash.
@@ -171,7 +169,6 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 ## Just for fun
 
 - [Bash Screensavers](https://github.com/attogram/bash-screensavers?) - A collection of screensavers written entirely in bash.
-- [pokeget](https://github.com/talwat/pokeget) - Displays sprites of pokemon in the terminal.
 
 ## Community
 
@@ -187,9 +184,3 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, aloisdg has waived all copyright and related or neighboring rights to this work.
