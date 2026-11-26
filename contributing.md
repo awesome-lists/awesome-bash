@@ -11,6 +11,7 @@ New suggestions and links are always appreciated! Please note that contributions
 - Should be older than 3 months
 - Should have more than 250 stars
 - Has a decently active community and engaged ownership
+- Has clear signs of human thought, oversight, or input throughout the lifecycle of the project (not one-shotted by AI)
 - Does one thing and do it well
 - Has a free and open source software license
 - Is easy to install and well-documented
@@ -18,7 +19,7 @@ New suggestions and links are always appreciated! Please note that contributions
 
 If the link is not source code (like a blog) the PR must include at least 1 link to positive discussions that indicates the resource has a strong, positive community backing. For example, a [Reddit](https://reddit.com/), [Hacker News](https://news.ycombinator.com/), or [Lobster](https://lobste.rs/) post.
 
-Exception are granted on a case-by-cases basis, especially for projects that are old (5+ years) or weren't one-shotted by AI.
+Exception are granted on a case-by-cases basis, especially for projects that are ~5+ years old or are especially useful.
 
 ## Pull Requests
 
@@ -26,6 +27,8 @@ Exception are granted on a case-by-cases basis, especially for projects that are
 
 - No duplicate links
 - _Create a pull request for each individual suggestion_
+
+For GitHub projects, put the repository URL under **Repo or homepage link:** in the PR description. The repository eligibility check verifies its age, star count, and recent commits, using calendar months in UTC. It runs when the PR is opened, edited, reopened, updated with commits, or marked ready for review. Results appear in the workflow summary; homepage submissions require manual review. PRs without the submission field are skipped.
 
 #### Formatting & Style
 
