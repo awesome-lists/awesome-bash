@@ -1,0 +1,156 @@
+name: Check Submission
+
+on:
+  pull_request_target:
+    types: [opened, edited, reopened, synchronize, ready_for_review]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+env:
+  MIN_REPO_AGE_MONTHS: '3'
+  MIN_STARS: '250'
+  MAX_COMMIT_AGE_MONTHS: '4'
+  REJECTION_MESSAGE: |
+    Thanks for the submission. This pull request is being closed because it does not meet the automated submission requirements.
+
+    If you believe this project deserves an exception, especially if it was not vibe coded and shows clear human thought, oversight, and maintenance, please reopen this pull request and leave a comment explaining why. Reopened submissions will be left open for maintainer review.
+
+concurrency:
+  group: check-submission-${{ github.event.pull_request.number }}
+  cancel-in-progress: false
+
+jobs:
+  check-submission:
+    name: Check Submission
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check the Link
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8.0.0
+        with:
+          retries: 2
+          script: |
+            const minRepoAgeMonths = Number(process.env.MIN_REPO_AGE_MONTHS);
+            const minStars = Number(process.env.MIN_STARS);
+            const maxCommitAgeMonths = Number(process.env.MAX_COMMIT_AGE_MONTHS);
+
+            const pullRequest = context.payload.pull_request;
+            const marker = '<!-- awesome-bash:repository-eligibility -->';
+            const rejectSubmission = async reasons => {
+              try {
+                const issue = { ...context.repo, issue_number: pullRequest.number };
+                const pull = { ...context.repo, pull_number: pullRequest.number };
+                const comments = await github.paginate(github.rest.issues.listComments, { ...issue, per_page: 100 });
+                if (comments.some(comment =>
+                  comment.user?.login === 'github-actions[bot]' && comment.user?.type === 'Bot' &&
+                  comment.body?.includes(marker))) {
+                  core.notice('Previously rejected automatically; leaving this PR open for a maintainer to review the exception request.');
+                  return;
+                }
+
+                // Do not close a PR that was changed, merged, or closed while this run was checking it.
+                const { data: current } = await github.rest.pulls.get(pull);
+                if (current.state !== 'open' || current.merged || current.body !== pullRequest.body ||
+                    current.head.sha !== pullRequest.head.sha) {
+                  core.notice('The pull request changed during this check; leaving it for the latest run.');
+                  return;
+                }
+
+                for (const reason of reasons) core.setFailed(reason);
+                const commentBody = [
+                  marker,
+                  process.env.REJECTION_MESSAGE.trim(),
+                  '',
+                  'Automated check results:',
+                  ...reasons.map(reason => `- ${reason}`)
+                ].join('\n');
+                await github.rest.issues.createComment({ ...issue, body: commentBody });
+                // Post the explanation first; if that fails, leave the PR open.
+                await github.rest.pulls.update({ ...pull, state: 'closed' });
+              } catch (error) {
+                core.setFailed(`Unable to comment on or close PR #${pullRequest.number}: ${error.message}`);
+              }
+            };
+
+            const body = (context.payload.pull_request.body || '')
+              .replace(/<!--[^]*?-->/g, '')
+              .replace(/\r\n/g, '\n');
+            const label = /^[ \t]*(?:\*\*|__)?Repo or homepage link(?:\*\*|__)?:(?:\*\*|__)?[ \t]*/im;
+            const heading = label.exec(body);
+            if (!heading) {
+              core.info('No submission field found; skipping this non-submission PR.');
+              return;
+            }
+
+            // Stop at the next template field so unrelated links cannot qualify.
+            const field = body.slice(heading.index + heading[0].length)
+              .split(/^[ \t]*(?:\*\*[^*\n]+(?::\*\*|\*\*:)|__[^\n]+(?::__|__:)|#{1,6} |Description:|Why I think it's awesome:)/im)[0];
+            const links = field.match(/https?:\/\/[^\s<>"'`)\]]+/gi) || [];
+            if (links.length !== 1) {
+              await rejectSubmission(['Post exactly one repository or homepage URL under "Repo or homepage link:".']);
+              return;
+            }
+            let url;
+            try {
+              url = new URL(links[0].replace(/[.,;!?]+$/, ''));
+            } catch {
+              await rejectSubmission(['Invalid URL under "Repo or homepage link:".']);
+              return;
+            }
+            if (!['github.com', 'www.github.com'].includes(url.hostname)) {
+              core.info('Not a GitHub URL; skipping repository checks.');
+              return;
+            }
+
+            const [owner, rawRepo] = url.pathname.split('/').slice(1);
+            const repo = (rawRepo || '').replace(/\.git$/i, '');
+            if (url.username || url.password || url.port || !/^[\w-]+$/.test(owner || '') ||
+                !/^[\w.-]+$/.test(repo) || /^\.+$/.test(repo)) {
+              await rejectSubmission(['Use a GitHub repository URL such as https://github.com/owner/repo.']);
+              return;
+            }
+
+            const now = new Date();
+            // Subtract calendar months in UTC, clamping dates such as May 31 to February 28.
+            const monthsAgo = months => {
+              const date = new Date(now);
+              date.setUTCDate(1);
+              date.setUTCMonth(date.getUTCMonth() - months);
+              const lastDay = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth() + 1, 0)).getUTCDate();
+              date.setUTCDate(Math.min(now.getUTCDate(), lastDay));
+              return date;
+            };
+            const ageCutoff = monthsAgo(minRepoAgeMonths);
+            const commitCutoff = monthsAgo(maxCommitAgeMonths);
+
+            const { data: repository } = await github.rest.repos.get({ owner, repo });
+            const { data: commits } = await github.rest.repos.listCommits({
+              owner,
+              repo,
+              sha: repository.default_branch,
+              since: commitCutoff.toISOString(),
+              until: now.toISOString(),
+              per_page: 1
+            }).catch(error => {
+              // GitHub returns 409 for a repository with no commits.
+              if (error.status !== 409) throw error;
+              return { data: [] };
+            });
+
+            const failures = [];
+            if (new Date(repository.created_at) >= ageCutoff) {
+              failures.push(`Older than ${minRepoAgeMonths} calendar months required: created ${repository.created_at}; must be before ${ageCutoff.toISOString()}.`);
+            }
+            if (repository.stargazers_count <= minStars) {
+              failures.push(`More than ${minStars} stars required: currently ${repository.stargazers_count}.`);
+            }
+            if (!commits.length) {
+              failures.push(`Commit within the past ${maxCommitAgeMonths} calendar months on the default branch required: none since ${commitCutoff.toISOString()}.`);
+            }
+            if (failures.length) {
+              await rejectSubmission(failures);
+            } else {
+              core.info(`${owner}/${repo} meets all submission requirements.`);
+            }
